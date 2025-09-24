@@ -1,0 +1,60 @@
+"Search Parameters"	"Id"	"Year"	"Mo"	"Dy"	"Hr"	"Mn"	"Sec"	"Tsunami Event Validity"	"Tsunami Cause Code"	"Oceanic Tsunami"	"Earthquake Magnitude"	"Focal Depth (km)"	"Vol"	"More Info"	"Deposits"	"Country"	"Area"	"Region"	"Location Name"	"Latitude"	"Longitude"	"Maximum Water Height (m)"	"Number of Runups"	"Tsunami Magnitude (Abe)"	"Tsunami Magnitude (Iida)"	"Tsunami Intensity"	"Deaths"	"Death Description"	"Missing"	"Missing Description"	"Injuries"	"Injuries Description"	"Damage ($Mil)"	"Damage Description"	"Houses Destroyed"	"Houses Destroyed Description"	"Houses Damaged"	"Houses Damaged Description"	"Total Deaths"	"Total Death Description"	"Total Missing"	"Total Missing Description"	"Total Injuries"	"Total Injuries Description"	"Total Damage ($Mil)"	"Total Damage Description"	"Total Houses Destroyed"	"Total Houses Destroyed Description"	"Total Houses Damaged"	"Total Houses Damaged Description"
+"[""1990 <= Year >= 2023"",""Cause Code = 1"",""Oceanic Tsunami = true"",""24 <= Latitude >= 46"",""128 <= Longitude >= 146""]"																																																		
+	2191	1990	2	20	6	53	39.8	4	1	true	6.4	14			0	"JAPAN"		85	"JAPAN"	34.706	139.252	0.16	1		-1.7																									
+	2196	1990	9	23	21	13	7.4	4	1	true	6.5	10			0	"JAPAN"		85	"W. OF BONIN ISLANDS, IZU IS., JAPAN"	33.267	138.643	0.2	4																											
+	2211	1992	7	18	8	36	58.7	4	1	true	7	29			0	"JAPAN"		85	"HONSHU ISLAND"	39.419	143.33	0.3	4		-2.3	-0.5																								
+	5427	1992	8	11	15	14	55.1	1	1	true	6.3	16			0	"JAPAN"		85	"HONSHU"	32.536	141.641		0																											
+	2215	1993	2	7	13	27	42	4	1	true	6.3	11			0	"JAPAN"		85	"HONSHU ISLAND"	37.634	137.245	0.5	1		-1	-0.5																								
+	2219	1993	7	12	13	17	11.9	4	1	true	7.7	17			19	"JAPAN"		85	"SEA OF JAPAN"	42.851	139.197	32	196		5	3.1	208	3			233	3	1207	4	2374	4			231	3			233	3	1207	4	2374	4		
+	2220	1993	8	7	19	42	41.9	4	1	true	6.3	13			0	"JAPAN"		85	"JAPAN"	41.985	139.839	0.16	1																											
+	2226	1994	4	8	1	10	40.8	4	1	true	6.4	13			0	"JAPAN"		85	"HOKKAIDO ISLAND"	40.608	143.683	0.11	3		-2.3	-1.5																								
+	2235	1994	12	28	12	19	23	4	1	true	7.8	27			0	"JAPAN"		85	"TOHUKU, JAPAN"	40.525	143.419	0.53	13																3	1			200	3	170.4	4				
+	2236	1995	1	16	20	46	53.6	4	1	true	6.9	17			0	"JAPAN"		85	"KOBE, JAPAN"	34.59	135.069	0.34	2		-2.3	-2													6434	4			43792	4	100000	4	186175	4	274182	4
+	2253	1995	10	18	10	37	26.3	4	1	true	7.1	28			0	"JAPAN"		85	"RYUKYU ISLANDS"	27.929	130.175	2.59	42		0.8	1.5								1									1	1		1				
+	2265	1996	9	4	18	16	1.9	4	1	true	5.7	33	7539		0	"JAPAN"		85	"HONSHU ISLAND"	31.555	139.931	0.3	14		-2.3	-2																								
+	2267	1996	10	18	10	50	20.8	4	1	true	6.6	10			0	"JAPAN"		85	"KYUSHU ISLAND"	30.568	131.093	0.2	1		-2.3	-2.5																								
+	2268	1996	10	19	14	44	40.7	4	1	true	6.7	22			0	"JAPAN"		85	"KYUSHU ISLAND"	31.885	131.468	0.55	6		0.1	0.5																				1				
+	2270	1996	12	2	22	17	59.2	4	1	true	6.7	49			0	"JAPAN"		85	"SEA OF JAPAN"	31.789	131.314	0.2	4		-2.3	-2																								
+	3034	1997	9	30	6	27	24.7	4	1	true	6.2	10			0	"JAPAN"		85	"S. OF HONSHU ISLAND"	31.959	141.878	0.03	1																											
+	5742	1998	5	30	18	18	15	4	1	true	6.2	33			0	"JAPAN"		85	"SANRIKU"	39.027	143.441	0.01	0																											
+	2340	2000	7	1	7	1	55.5	4	1	true	6.1	10	5104		1	"JAPAN"		85	"KOZU-SHIMA ISLAND, HONSHU"	34.221	139.131	0.07	4																1	1				3		1				
+	3508	2000	7	15	1	30	30.5	4	1	true	6.1	10			0	"JAPAN"		85	"HONSHU: S COAST"	34.319	139.26	0.07	1																				10	1		1			20	1
+	3509	2000	7	30	12	25	45.5	4	1	true	6.5	10			0	"JAPAN"		85	"HONSHU: S COAST"	33.901	139.376	0.14	1																				1	1		1				
+	2406	2003	9	25	19	50	6.3	4	1	true	8.3	27			1	"JAPAN"		85	"HOKKAIDO ISLAND"	41.815	143.91	4.4	268				2	1						1					2	1			849	3	90	4				
+	2428	2003	10	31	1	6	28.2	4	1	true	7	10			0	"JAPAN"		85	"E. HONSHU ISLAND"	37.812	142.619	0.32	4																											
+	2436	2004	9	5	10	7	7.8	4	1	true	7.2	14			0	"JAPAN"		85	"SOUTH COAST HONSHU ISLAND"	33.07	136.618	0.63	12																				4	1		1				
+	2437	2004	9	5	14	57	18.6	4	1	true	7.4	10			0	"JAPAN"		85	"SOUTH COAST HONSHU ISLAND"	33.184	137.071	0.93	24																				40	1		1				
+	2921	2004	11	28	18	32	14.1	4	1	true	7	39			0	"JAPAN"		85	"HOKKAIDO ISLAND"	43.006	145.119	0.12	2																				24	1		2				1
+	2466	2005	1	19	6	11	36.4	4	1	true	6.6	28			0	"JAPAN"		85	"E. HONSHU ISLAND"	34.064	141.491	0.39	11																											
+	2548	2005	8	16	2	46	28.4	4	1	true	7.2	36			0	"JAPAN"		85	"E. COAST HONSHU ISLAND"	38.276	142.039	0.05	1																				56	2		1	1	1		
+	2590	2005	11	14	21	38	51.4	4	1	true	7	11			0	"JAPAN"		85	"E. COAST HONSHU ISLAND"	38.107	144.896	0.42	1																											
+	5795	2006	1	1	7	11	57	3	1	true	5.6	10	7540		0	"JAPAN"		85	"S. OF HONSHU ISLAND"	31.394	140.131		0																											
+	5910	2006	10	23	21	17	19	4	1	true	6.4	11			0	"JAPAN"		85	"IZU ISLANDS, JAPAN"	29.351	140.27	0.16	5																											
+	3035	2007	3	25	0	41	57.8	4	1	true	6.7	8			0	"JAPAN"		85	"HONSHU: W COAST"	37.336	136.588	0.1	6																1	1			359	3		3	13556	4		
+	3104	2007	7	16	1	13	22	4	1	true	6.6	10			0	"JAPAN"		85	"HONSHU: W COAST"	37.57	138.478		1																9	1			1088	4		3	875	3		
+	3558	2008	7	19	2	39	28.7	4	1	true	6.9	22			0	"JAPAN"		85	"OFF EAST COAST OF HONSHU ISLAND"	37.552	142.214	0.2	3																											
+	3589	2008	9	11	0	20	50.9	4	1	true	6.8	25			0	"JAPAN"		85	"HOKKAIDO ISLAND"	41.892	143.754	0.09	1																6	1			77	2		3			1000	3
+	4418	2009	8	10	20	7	9.1	4	1	true	6.4	40			0	"JAPAN"		85	"HONSHU: S COAST"	34.743	138.264	0.6	5																1	1			123	3		3	5192	4		
+	4782	2010	2	26	20	31	26.9	3	1	true	7	25			0	"JAPAN"		85	"RYUKYU ISLANDS"	25.93	128.425	0.1	2																											
+	5402	2010	12	21	17	19	40.6	4	1	true	7.4	14			0	"JAPAN"		85	"BONIN ISLANDS"	26.901	143.698	0.13	4																											
+	5412	2011	3	9	2	45	20	4	1	true	7.3	32			0	"JAPAN"		85	"HONSHU ISLAND"	38.435	142.842	0.6	24																											
+	5931	2011	3	9	21	24	1	4	1	true	6.3	15			0	"JAPAN"		85	"OFF SANRIKU"	38.296	142.808	0.06	1																											
+	5413	2011	3	11	5	46	24.1	4	1	true	9.1	29			9	"JAPAN"		85	"HONSHU ISLAND"	38.297	142.373	39.26	6421				18428	4			6167	4	220136.6	4	123661	4	280920	4	18428	4			6167	4	220136.6	4	123661	4	280920	4
+	5429	2011	4	7	14	32	43.2	4	1	true	7.1	42			0	"JAPAN"		85	"E. COAST HONSHU ISLAND"	38.276	141.588	0.08	1																3	1			132	3		1				
+	5431	2011	7	10	0	57	10.8	4	1	true	7	23			0	"JAPAN"		85	"OFF EAST COAST OF HONSHU ISLAND"	38.034	143.264	0.09	3																											
+	5446	2012	3	14	9	8	35.1	4	1	true	6.9	12			0	"JAPAN"		85	"HOKKAIDO ISLAND"	40.887	144.944	0.2	2																											
+	5469	2012	12	7	8	18	23.1	4	1	true	7.2	31			0	"JAPAN"		85	"OFF EAST COAST OF HONSHU ISLAND"	37.89	143.949	1	3																				11	1						
+	5533	2013	10	25	17	10	19.7	4	1	true	7.1	35			0	"JAPAN"		85	"E. COAST HONSHU ISLAND"	37.156	144.661	0.4	9																				1	1						
+	5574	2014	7	11	19	23	0.8	4	1	true	6.5	20			0	"JAPAN"		85	"SANRIKU"	37.005	142.453	0.2	6																					1		1				
+	5580	2015	2	16	23	6	28.3	4	1	true	6.7	23			0	"JAPAN"		85	"HONSHU"	39.856	142.881	0.27	3																											
+	5584	2015	5	2	16	50	43	3	1	true	5.7	10	7537		0	"JAPAN"		85	"S. OF HONSHU ISLAND"	31.529	140.213	0.6	16																											
+	5593	2015	11	13	20	51	31	4	1	true	6.7	12			0	"JAPAN"		85	"JAPAN"	31.001	128.873	0.3	1																											
+	5741	2016	8	20	9	1	26.2	4	1	true	6	10			0	"JAPAN"		85	"SANRIKU"	40.394	143.68	0.01	0																											
+	5618	2016	11	21	20	59	49.3	4	1	true	6.9	9			0	"JAPAN"		85	"E. COAST HONSHU ISLAND"	37.393	141.387	1.44	44											1										1		1				
+	5796	2018	5	6	6	3	59.3	4	1	true	5.4	10	7541		0	"JAPAN"		85	"S. OF HONSHU ISLAND"	31.444	140.193	0.15	1																											
+	5712	2019	6	18	13	22	19	4	1	true	6.4	12			0	"JAPAN"		85	"NIIGATA"	38.646	139.472	0.11	8																				28	1		2			144	3
+	5823	2021	2	13	14	7	50	4	1	true	7.1	49			0	"JAPAN"		85	"OFF FUKUSHIMA PREFECTURE"	37.745	141.749	0.1	4																1	1			186	3	7700	4	798	3	19758	4
+	5832	2022	3	16	14	36	33	4	1	true	7.3	63			0	"JAPAN"		85	"OFF FUKUSHIMA PREFECTURE"	37.702	141.587	0.31	11																4	1			247	3	8800	4	217	3	56718	4
+	5880	2023	5	5	5	42	4	4	1	true	6.2	8			0	"JAPAN"		85	"NOTO PENINSULA, JAPAN"	37.54	137.305	0.1	2																1	1			34	1		2	3	1	351	3
+	5890	2023	10	5	1	59	58	4	1	true	6.1	10			0	"JAPAN"		85	"IZU ISLANDS, JAPAN"	29.94	139.95	0.2	1																											
+	6007	2023	10	6	1	31	17	4	1	true	6.1	10			0	"JAPAN"		85	"IZU ISLANDS, JAPAN"	30.141	139.968	0.08	4																											

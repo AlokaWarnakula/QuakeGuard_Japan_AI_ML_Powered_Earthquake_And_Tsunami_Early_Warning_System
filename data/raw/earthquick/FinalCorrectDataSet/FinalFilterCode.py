@@ -13,7 +13,7 @@ from datetime import datetime, timedelta
 
 # Configuration
 input_dir = "/"  # Directory with CSV files
-raw_output_file = "../raw_japan_earthquakes_1990-2023.csv"
+raw_output_file = "raw_japan_earthquakes_1990-2023.csv"
 cleaned_output_file = "cleaned_japan_earthquakes_1990-2023.csv"
 ncei_file = "../../tsunami/FinalTsunamiDataSet/tsunamisCorrect.csv"  # Path to NCEI tsunami CSV
 chunk_size = 50000  # Reduced for 8GB RAM
